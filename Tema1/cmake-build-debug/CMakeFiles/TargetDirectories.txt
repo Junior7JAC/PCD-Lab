@@ -1,0 +1,5 @@
+/home/junior/Desktop/Tema1/cmake-build-debug/CMakeFiles/app1.dir
+/home/junior/Desktop/Tema1/cmake-build-debug/CMakeFiles/app2.dir
+/home/junior/Desktop/Tema1/cmake-build-debug/CMakeFiles/app3.dir
+/home/junior/Desktop/Tema1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/junior/Desktop/Tema1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

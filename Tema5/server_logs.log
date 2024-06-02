@@ -1,0 +1,88 @@
+[Mon Apr  1 13:00:30 2024] Server started and listening
+[Mon Apr  1 13:01:21 2024] Client connected
+[Mon Apr  1 13:01:29 2024] Time requested by client
+[Mon Apr  1 13:01:31 2024] User requested by client
+[Mon Apr  1 13:01:35 2024] Executing command: ls
+[Mon Apr  1 13:01:39 2024] Executing command: date
+[Mon Apr  1 13:01:42 2024] Close command received. Shutting down
+[Mon Apr  1 13:01:42 2024] Server shutdown
+[Mon Apr  1 13:02:48 2024] Server started and listening
+[Mon Apr  1 13:02:51 2024] Client connected
+[Mon Apr  1 13:02:58 2024] Executing command: ls
+[Mon Apr  1 13:02:59 2024] Close command received. Shutting down
+[Mon Apr  1 13:02:59 2024] Server shutdown
+[Mon Apr  1 13:04:33 2024] Server started and listening
+[Mon Apr  1 13:04:45 2024] Client connected
+[Mon Apr  1 13:04:52 2024] Time requested by client
+[Mon Apr  1 13:04:57 2024] User requested by client
+[Mon Apr  1 13:05:00 2024] Executing command: ls
+[Mon Apr  1 13:05:04 2024] Executing command: date
+[Mon Apr  1 13:05:06 2024] Close command received. Shutting down
+[Mon Apr  1 13:05:06 2024] Server shutdown
+[Mon Apr  1 18:30:10 2024] Server started and listening
+[Mon Apr  1 18:30:14 2024] Client connected
+[Mon Apr  1 18:30:16 2024] Client closed the connection
+[Mon Apr  1 18:30:16 2024] Server shutdown
+[Mon Apr  1 18:30:46 2024] Server started and listening
+[Mon Apr  1 18:30:49 2024] Client connected
+[Mon Apr  1 18:31:08 2024] Time requested by client
+[Mon Apr  1 18:31:11 2024] User requested by client
+[Mon Apr  1 18:31:16 2024] Executing command: ls
+[Mon Apr  1 18:31:28 2024] Executing command: cal
+[Mon Apr  1 18:31:44 2024] Executing command: 
+[Mon Apr  1 18:31:59 2024] Executing command: 
+[Mon Apr  1 18:35:15 2024] Server started and listening
+[Mon Apr  1 18:35:20 2024] Client connected
+[Mon Apr  1 18:35:29 2024] Executing command: ls | cal
+[Mon Apr  1 18:35:49 2024] Executing command: ls|time
+[Mon Apr  1 18:36:02 2024] Executing command: ls|cal
+[Mon Apr  1 18:36:12 2024] Executing command: cal|ls
+[Mon Apr  1 18:36:44 2024] Close command received. Shutting down
+[Mon Apr  1 18:36:44 2024] Server shutdown
+[Wed Apr  3 15:07:57 2024] Server started and listening
+[Wed Apr  3 15:08:01 2024] Client connected
+[Wed Apr  3 15:08:03 2024] Client closed the connection
+[Wed Apr  3 15:08:03 2024] Server shutdown
+[Wed Apr  3 15:08:30 2024] Server started and listening
+[Wed Apr  3 15:08:32 2024] Client connected
+[Wed Apr  3 15:08:39 2024] Time requested by client
+[Wed Apr  3 15:08:40 2024] User requested by client
+[Wed Apr  3 15:08:46 2024] Executing command: ls -a
+[Wed Apr  3 15:08:54 2024] Close command received. Shutting down
+[Wed Apr  3 15:08:54 2024] Server shutdown
+[Wed Apr  3 15:10:43 2024] Server started and listening
+[Wed Apr  3 15:10:46 2024] Client connected
+[Wed Apr  3 15:10:53 2024] Time requested by client
+[Wed Apr  3 15:10:54 2024] User requested by client
+[Wed Apr  3 15:10:57 2024] Executing command: ls
+[Wed Apr  3 15:10:59 2024] Close command received. Shutting down
+[Wed Apr  3 15:10:59 2024] Server shutdown
+[Wed Apr  3 15:12:14 2024] Server started and listening
+[Wed Apr  3 15:12:17 2024] Client connected
+[Wed Apr  3 15:12:22 2024] Time requested by client
+[Wed Apr  3 15:12:27 2024] Close command received. Shutting down
+[Wed Apr  3 15:12:27 2024] Server shutdown
+[Wed Apr  3 15:18:18 2024] Server started and listening
+[Wed Apr  3 15:35:37 2024] Server started and listening
+[Wed Apr  3 15:35:39 2024] Client connected
+[Wed Apr  3 15:35:47 2024] Time requested by client
+[Wed Apr  3 15:35:48 2024] User requested by client
+[Wed Apr  3 15:35:51 2024] Executing command: ls
+[Wed Apr  3 15:35:56 2024] Close command received. Shutting down
+[Wed Apr  3 15:35:56 2024] Server shutdown
+[Wed Apr  3 15:37:05 2024] Server started and listening
+[Wed Apr  3 15:37:07 2024] Client connected
+[Wed Apr  3 15:37:43 2024] Executing command: abc
+[Wed Apr  3 15:38:09 2024] Close command received. Shutting down
+[Wed Apr  3 15:38:09 2024] Server shutdown
+[Fri Apr  5 00:35:43 2024] Server started and listening
+[Fri Apr  5 00:35:51 2024] Client connected
+[Fri Apr  5 00:35:52 2024] Client closed the connection
+[Fri Apr  5 00:35:52 2024] Server shutdown
+[Fri Apr  5 00:36:30 2024] Server started and listening
+[Fri Apr  5 00:36:34 2024] Client connected
+[Fri Apr  5 00:36:49 2024] Time requested by client
+[Fri Apr  5 00:36:53 2024] User requested by client
+[Fri Apr  5 00:37:03 2024] Executing command: ls
+[Fri Apr  5 00:37:22 2024] Client closed the connection
+[Fri Apr  5 00:37:22 2024] Server shutdown

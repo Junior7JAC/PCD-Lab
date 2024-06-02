@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/app1.dir/app1.c.o -o app1 
